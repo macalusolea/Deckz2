@@ -1,5 +1,5 @@
 // Deck.js
-import Card from "./card.js";
+import Card from "./Card.js";
 import { shuffle } from "lodash-es";
 
 class Deck {
